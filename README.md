@@ -3,7 +3,7 @@ A Python-based analysis of Land Transport Authority's datasets using NumPy and M
 
 ## 📌 Overview 
 This project analyses Singapore's transport datasets from the Land Transport Authority (LTA) to extract actionable insights. Using **Python (NumPy for data analysis and Matplotlib for data visualisation)**, the project:
-- Processes real-world CSV datasets from [LTA's open-data portal](https://data.gov.sg/datasets?topics=transport).
+- Processes real-world CSV datasets from [LTA's open-data portal](https://data.gov.sg/datasets?agencies=Land+Transport+Authority+(LTA)).
 - Generates statistical summaries and visualisations (bar charts, line graphs, histograms, etc.).
 - Provides actionable recommendations after a detailed analysis.
 
